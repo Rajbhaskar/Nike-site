@@ -3,7 +3,7 @@ import { Hero, Services, Footer, PopularProducts
 } from "./sections";
 import React from "react";
 import CustomerReviews from "./sections/CustomerReviews";
-import Nav from "./components/nav";
+import Nav from "./components/Nav";
 const App = () => (
   <main className='relative'>
     <Nav/>
